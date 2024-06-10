@@ -1,2 +1,2 @@
-resource_group_name = "sqlin-test-001"
+resource_group_name = "rg-sqlin-test-001"
 location = "East US"

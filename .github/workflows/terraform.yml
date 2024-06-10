@@ -21,7 +21,10 @@ jobs:
         terraform_version: 1.0.0
 
     - name: Set environment variable
-      run: echo "BRANCH_NAME=${GITHUB_REF##*/}" >> $GITHUB_ENV
+      id: vars
+      run: |
+        echo "BRANCH_NAME=${GITHUB_REF##*/}" >> $GITHUB_ENV
+        echo "Branch name is: ${GITHUB_REF##*/}"
 
     - name: Terraform Init
       run: terraform init
