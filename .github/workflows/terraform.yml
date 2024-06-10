@@ -20,14 +20,23 @@ jobs:
       with:
         terraform_version: 1.0.0
 
-    - name: Set environment variable
+    - name: Set environment variables
       id: vars
       run: |
+        if [ "${GITHUB_REF##*/}" == "dev" ]; then
+          echo "TF_VAR_storage_account_name=${{ secrets.AZURE_STORAGE_ACCOUNT_NAME_DEV }}" >> $GITHUB_ENV
+          echo "TF_VAR_storage_access_key=${{ secrets.AZURE_STORAGE_ACCESS_KEY_DEV }}" >> $GITHUB_ENV
+        elif [ "${GITHUB_REF##*/}" == "test" ]; then
+          echo "TF_VAR_storage_account_name=${{ secrets.AZURE_STORAGE_ACCOUNT_NAME_TEST }}" >> $GITHUB_ENV
+          echo "TF_VAR_storage_access_key=${{ secrets.AZURE_STORAGE_ACCESS_KEY_TEST }}" >> $GITHUB_ENV
+        elif [ "${GITHUB_REF##*/}" == "main" ]; then
+          echo "TF_VAR_storage_account_name=${{ secrets.AZURE_STORAGE_ACCOUNT_NAME_MAIN }}" >> $GITHUB_ENV
+          echo "TF_VAR_storage_access_key=${{ secrets.AZURE_STORAGE_ACCESS_KEY_MAIN }}" >> $GITHUB_ENV
+        fi
         echo "BRANCH_NAME=${GITHUB_REF##*/}" >> $GITHUB_ENV
-        echo "Branch name is: ${GITHUB_REF##*/}"
 
     - name: Terraform Init
-      run: terraform init
+      run: terraform init -backend-config="storage_account_name=$TF_VAR_storage_account_name" -backend-config="container_name=terraform-state" -backend-config="key=terraform.tfstate" -backend-config="access_key=$TF_VAR_storage_access_key"
       working-directory: iac
 
     - name: Terraform Plan
