@@ -38,9 +38,10 @@ jobs:
         ARM_TENANT_ID: ${{ secrets.ARM_TENANT_ID }}
       run: terraform plan -var-file="${{ env.BRANCH_NAME }}.tfvars"
       working-directory: iac
+      timeout-minutes: 15
 
     - name: Terraform Apply
-      if: github.ref == 'refs/heads/main'
+      if: always()
       env:
         ARM_CLIENT_ID: ${{ secrets.ARM_CLIENT_ID }}
         ARM_CLIENT_SECRET: ${{ secrets.ARM_CLIENT_SECRET }}
@@ -48,3 +49,4 @@ jobs:
         ARM_TENANT_ID: ${{ secrets.ARM_TENANT_ID }}
       run: terraform apply -var-file="${{ env.BRANCH_NAME }}.tfvars" -auto-approve
       working-directory: iac
+      timeout-minutes: 15
