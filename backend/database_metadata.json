@@ -1,0 +1,1102 @@
+{
+    "sqldb-sqlin-dev-001": [
+        {
+            "ObjectName": "sysrscols",
+            "ObjectID": 3,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysrowsets",
+            "ObjectID": 5,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysclones",
+            "ObjectID": 6,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysallocunits",
+            "ObjectID": 7,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysfiles1",
+            "ObjectID": 8,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysseobjvalues",
+            "ObjectID": 9,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syspriorities",
+            "ObjectID": 17,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysdbfrag",
+            "ObjectID": 18,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysfgfrag",
+            "ObjectID": 19,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysdbfiles",
+            "ObjectID": 20,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syspru",
+            "ObjectID": 21,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysbrickfiles",
+            "ObjectID": 22,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysphfg",
+            "ObjectID": 23,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysprufiles",
+            "ObjectID": 24,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysftinds",
+            "ObjectID": 25,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysowners",
+            "ObjectID": 27,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysdbreg",
+            "ObjectID": 28,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysprivs",
+            "ObjectID": 29,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysschobjs",
+            "ObjectID": 34,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syscsrowgroups",
+            "ObjectID": 35,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysextsources",
+            "ObjectID": 36,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysexttables",
+            "ObjectID": 37,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysextfileformats",
+            "ObjectID": 38,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysmultiobjvalues",
+            "ObjectID": 40,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syscolpars",
+            "ObjectID": 41,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysxlgns",
+            "ObjectID": 42,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysxsrvs",
+            "ObjectID": 43,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysnsobjs",
+            "ObjectID": 44,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysusermsgs",
+            "ObjectID": 45,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syscerts",
+            "ObjectID": 46,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysrmtlgns",
+            "ObjectID": 47,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syslnklgns",
+            "ObjectID": 48,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysxprops",
+            "ObjectID": 49,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysscalartypes",
+            "ObjectID": 50,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "systypedsubobjs",
+            "ObjectID": 51,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysidxstats",
+            "ObjectID": 54,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysiscols",
+            "ObjectID": 55,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysendpts",
+            "ObjectID": 56,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syswebmethods",
+            "ObjectID": 57,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysbinobjs",
+            "ObjectID": 58,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysaudacts",
+            "ObjectID": 59,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysobjvalues",
+            "ObjectID": 60,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syscscolsegments",
+            "ObjectID": 62,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syscsdictionaries",
+            "ObjectID": 63,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysclsobjs",
+            "ObjectID": 64,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysrowsetrefs",
+            "ObjectID": 65,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysremsvcbinds",
+            "ObjectID": 67,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysxmitqueue",
+            "ObjectID": 68,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysrts",
+            "ObjectID": 69,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysconvgroup",
+            "ObjectID": 71,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysdesend",
+            "ObjectID": 72,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysdercv",
+            "ObjectID": 73,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syssingleobjrefs",
+            "ObjectID": 74,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysmultiobjrefs",
+            "ObjectID": 75,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysguidrefs",
+            "ObjectID": 78,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysfoqueues",
+            "ObjectID": 79,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syschildinsts",
+            "ObjectID": 80,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syscompfragments",
+            "ObjectID": 82,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysftsemanticsdb",
+            "ObjectID": 84,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysftstops",
+            "ObjectID": 85,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysftproperties",
+            "ObjectID": 86,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysxmitbody",
+            "ObjectID": 87,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysfos",
+            "ObjectID": 89,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysqnames",
+            "ObjectID": 90,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysxmlcomponent",
+            "ObjectID": 91,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysxmlfacet",
+            "ObjectID": 92,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysxmlplacement",
+            "ObjectID": 93,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysobjkeycrypts",
+            "ObjectID": 94,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysasymkeys",
+            "ObjectID": 95,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syssqlguides",
+            "ObjectID": 96,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysbinsubobjs",
+            "ObjectID": 97,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "syssoftobjrefs",
+            "ObjectID": 98,
+            "ObjectType": "SYSTEM_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "TT_DatabaseEventTypesInputTable_00200768",
+            "ObjectID": 2099048,
+            "ObjectType": "TYPE_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sp_add_database_events",
+            "ObjectID": 18099105,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROC sys.sp_add_database_events \n\t@events as dbo.DatabaseEventsInputTable readonly,  \n\t@event_types as dbo.DatabaseEventTypesInputTable readonly \nas \nbegin \n\tbegin tran add_database_events_tran \n \n\t-- Upsert the event types table \n\tmerge sys.database_event_types_table as target \n\tusing @event_types as source \n\ton (target.event_type = source.event_type and target.event_subtype = source.event_subtype and target.event_category = source.event_category) \n\twhen matched and target.event_subtype_desc <> source.event_subtype_desc or target.severity <> source.severity or target.description <> source.description \n\t\tthen update set target.event_subtype_desc = source.event_subtype_desc, target.severity = source.severity, target.description = source.description \n\twhen not matched \n\t\tthen insert (event_category, event_type, event_subtype, event_subtype_desc, severity, description) \n\t\t\tvalues (source.event_category, source.event_type, source.event_subtype, source.event_subtype_desc, source.severity, source.description) \n\t; \n \n\t-- Upsert the event context table \n\tmerge sys.database_event_context_table as target \n\tusing (select distinct database_name from @events) as source \n\ton (target.database_name = source.database_name) \n\twhen not matched \n\t\tthen insert (database_name) \n\t\t\tvalues (source.database_name) \n\t; \n \n\t-- Upsert the main table while eliminating duplicates using history table \n\tmerge sys.database_events_table as target \n\tusing  \n\t( \n\t\tselect  \n\t\t\te.*, t.id as event_type_id, c.id as event_context_id \n\t\tfrom @events e \n\t\tleft join sys.database_event_update_history_table h on e.start_time = h.start_time and e.source_id = h.source_id and e.source_sequence_id = h.source_sequence_id \n\t\tjoin sys.database_event_types_table t on e.event_type = t.event_type and e.event_subtype = t.event_subtype and e.event_category = t.event_category \n\t\tjoin sys.database_event_context_table c on e.database_name = c.database_name \n\t\twhere h.start_time is null -- check duplicates \n\t) as source \n\ton ( \n\t\ttarget.start_time = source.start_time and target.event_type_id = source.event_type_id and target.event_context_id = source.event_context_id \n\t\tand target.start_time <> target.end_time -- do not merge non aggregated events \n\t\t) \n\twhen matched \n\t\tthen update set target.event_count = target.event_count + source.event_count \n\twhen not matched \n\t\tthen insert (event_context_id, event_type_id, start_time, end_time, event_count, activity_id, description, additional_data) \n\t\t\tvalues (source.event_context_id, source.event_type_id, source.start_time, source.end_time, source.event_count, source.activity_id, source.description, source.additional_data) \n\t; \n \n\t-- MERGE statement and IGNORE_DUP_KEY on primary key - would not work as expected \n\t-- http://technet.microsoft.com/en-us/library/bb510625.aspx \n\t-- instead, using INSERT statement here to add history records. primary key would ignore duplicate inserts when rows are inserted using INSERT statement \n\tINSERT INTO sys.database_event_update_history_table  \n\tSELECT DISTINCT start_time, source_id,source_sequence_id \n\tFROM @events \n\t; \n \n\tcommit tran add_database_events_tran \nend \n"
+        },
+        {
+            "ObjectName": "sp_cleanup_database_events",
+            "ObjectID": 34099162,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROC sys.sp_cleanup_database_events \n\t@expire_after_days as int,  \n\t@expire_after_events as int, \n\t@expire_history_after_hours as int \nas \nbegin \n\tbegin tran cleanup_database_events_tran; \n \n\t-- Clean up history table \n\tdeclare @history_expired_date as datetime2 = DATEADD(HOUR, -@expire_history_after_hours, SYSUTCDATETIME()); \n \n\tdelete from sys.database_event_update_history_table \n\twhere start_time < @history_expired_date; \n \n\t-- Clean up event table based on time policy \n\tdeclare @start_time_to_keep as datetime2 = DATEADD(DAY, -@expire_after_days, SYSUTCDATETIME()); \n\tdelete from sys.database_events_table \n\twhere start_time < @start_time_to_keep; \n \n\t-- Clean up event table based on size policy \n\tdeclare @num_events int; \n\tselect @num_events = COUNT(*) from sys.database_events_table; \n\tif (@num_events > @expire_after_events) \n\tbegin \n\t\tselect top (@num_events - @expire_after_events + 1) \n\t\t\t@start_time_to_keep = start_time \n\t\tfrom sys.database_events_table \n\t\torder by start_time; \n \n\t\tdelete from sys.database_events_table \n\t\twhere start_time < @start_time_to_keep; \n\tend \n \n\tcommit tran cleanup_database_events_tran; \nend \n"
+        },
+        {
+            "ObjectName": "sp_cleanup_database_event_update_history_table",
+            "ObjectID": 50099219,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROC sys.sp_cleanup_database_event_update_history_table \n\t@expire_history_after_hours as int, \n\t@num_elem_to_del as int \nas \nbegin \n\tbegin tran cleanup_database_history_table; \n \n\tdeclare @total_num_elements int; \n\tdeclare @more_rows int; \n\tdeclare @num_elements int; \n\tSET @more_rows = 0; \n\t-- Clean up history table \n\tdeclare @history_expired_date as datetime2 = DATEADD(HOUR, -@expire_history_after_hours, SYSUTCDATETIME()); \n \n\tselect @total_num_elements = COUNT(1) from sys.database_event_update_history_table \n\twhere start_time < @history_expired_date; \n \n\tif (@total_num_elements > @num_elem_to_del) \n\tbegin \n\t\tSET @more_rows = 1; \n\tend \n \n\tdelete top (@num_elem_to_del) from sys.database_event_update_history_table \n\twhere start_time < @history_expired_date; \n \n\tcommit tran cleanup_database_history_table; \n\treturn @more_rows; \nend \n"
+        },
+        {
+            "ObjectName": "sp_cleanup_database_events_table",
+            "ObjectID": 66099276,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROC sys.sp_cleanup_database_events_table \n\t@expire_after_days as int,  \n\t@expire_after_events as int, \n\t@num_elem_to_del as int \nas \nbegin \n\tbegin tran cleanup_database_events_table; \n \n\tdeclare @total_num_elements int; \n\tdeclare @more_rows int; \n\tdeclare @num_elements int; \n\tSET @more_rows = 0; \n\t-- Clean up event table based on time policy \n\tdeclare @start_time_to_keep as datetime2 = DATEADD(DAY, -@expire_after_days, SYSUTCDATETIME()); \n \n\tselect @total_num_elements = COUNT(1) from sys.database_events_table \n\twhere start_time < @start_time_to_keep; \n \n\tif (@total_num_elements > @num_elem_to_del) \n\tbegin \n\t\tSET @more_rows = 1; \n\tend \n \n\tdelete top (@num_elem_to_del) from sys.database_events_table \n\twhere start_time < @start_time_to_keep; \n \n\t-- Clean up event table based on size policy \n\tdeclare @num_events int; \n\tselect @num_events = COUNT(1) from sys.database_events_table; \n\tif (@num_events > @expire_after_events) \n\tbegin \n\t\tif ((@num_events - @expire_after_events) > @num_elem_to_del) \n\t\tbegin \n\t\t\tSET @num_elements = @num_elem_to_del; \n\t\t\tSET @more_rows = 1; \n\t\tend \n\t\telse \n\t\tbegin \n\t\t\tSET @num_elements = @num_events - @expire_after_events; \n\t\tend \n \n\t\tselect top (@num_elements) \n\t\t\t@start_time_to_keep = start_time \n\t\tfrom sys.database_events_table \n\t\torder by start_time; \n \n\t\tdelete top (@num_elements) from sys.database_events_table \n\t\twhere start_time <= @start_time_to_keep; \n\tend \n \n\tcommit tran cleanup_database_events_table; \n\treturn @more_rows; \nend \n"
+        },
+        {
+            "ObjectName": "sqlagent_jobs",
+            "ObjectID": 101575400,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sqlagent_jobsteps",
+            "ObjectID": 117575457,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sqlagent_job_history",
+            "ObjectID": 133575514,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sqlagent_jobsteps_logs",
+            "ObjectID": 149575571,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_query_text",
+            "ObjectID": 165575628,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_query",
+            "ObjectID": 181575685,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_plan",
+            "ObjectID": 197575742,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_runtime_stats",
+            "ObjectID": 213575799,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_runtime_stats_interval",
+            "ObjectID": 229575856,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_context_settings",
+            "ObjectID": 245575913,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_query_hints",
+            "ObjectID": 261575970,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_query_template_parameterization",
+            "ObjectID": 277576027,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_wait_stats",
+            "ObjectID": 293576084,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "persistent_version_store",
+            "ObjectID": 309576141,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "persistent_version_store_long_term",
+            "ObjectID": 325576198,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "ledger_tables_history_internal",
+            "ObjectID": 338100245,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "db_ledger_blocks",
+            "ObjectID": 341576255,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "ledger_tables_history_internal_history",
+            "ObjectID": 354100302,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "db_ledger_transactions",
+            "ObjectID": 357576312,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "ledger_columns_history_internal",
+            "ObjectID": 370100359,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "backup_metadata_store",
+            "ObjectID": 373576369,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "ledger_columns_history_internal_history",
+            "ObjectID": 386100416,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_plan_feedback",
+            "ObjectID": 389576426,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "db_ledger_digest_locations",
+            "ObjectID": 402100473,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_query_variant",
+            "ObjectID": 405576483,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_replicas",
+            "ObjectID": 418100530,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_plan_forcing_locations",
+            "ObjectID": 434100587,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_runtime_stats_v2",
+            "ObjectID": 450100644,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "plan_persist_wait_stats_v2",
+            "ObjectID": 466100701,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "pause_resume_history",
+            "ObjectID": 514100872,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "fulltext_thesaurus_metadata_table",
+            "ObjectID": 530100929,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "fulltext_thesaurus_state_table",
+            "ObjectID": 546100986,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "fulltext_thesaurus_phrase_table",
+            "ObjectID": 562101043,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "wpr_bucket_table",
+            "ObjectID": 565577053,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "fn_sysdac_get_currentusername",
+            "ObjectID": 658101385,
+            "ObjectType": "SQL_SCALAR_FUNCTION",
+            "Definition": "CREATE FUNCTION [dbo].[fn_sysdac_get_currentusername]()\r\nRETURNS sysname\r\nBEGIN\r\n    RETURN SUSER_SNAME();\r\nEND\r\n"
+        },
+        {
+            "ObjectName": "DF__sysdac_in__creat__282DF8C2",
+            "ObjectID": 674101442,
+            "ObjectType": "DEFAULT_CONSTRAINT",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "DF__sysdac_hi__creat__29221CFB",
+            "ObjectID": 690101499,
+            "ObjectType": "DEFAULT_CONSTRAINT",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "event_log",
+            "ObjectID": 706101556,
+            "ObjectType": "VIEW",
+            "Definition": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\tCREATE VIEW sys.event_log \t\t\t\t\t\t\t\t\t\t\t\t\n\tAS\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n  SELECT \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n  \tdatabase_name,\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\tstart_time, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\tend_time, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\tevent_category,\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\tevent_type, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\tevent_subtype, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\tevent_subtype_desc, \t\t\t\t\t\t\t\t\t\t\t\t\n\t\tseverity, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\tevent_count, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\tdescription, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\tadditional_data \t\t\t\t\t\t\t\t\t\t\t\t\t\n\tFROM sys.external_telemetry_event_log_table"
+        },
+        {
+            "ObjectName": "database_connection_stats",
+            "ObjectID": 722101613,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.database_connection_stats AS \t\t\t\t\t\t\t\nselect \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\tdatabase_name, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\tstart_time, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\tend_time, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\tISNULL([connection_successful], 0) as success_count, \t\t\t\t\n\tISNULL([connection_failed], 0) as total_failure_count, \t\t\t\t\n\tISNULL([connection_failed], 0) as connection_failure_count, \t\t\n\t0 as terminated_connection_count, \t\t\t\t\t\t\t\t\t\n\t0 as throttled_connection_count \t\t\t\t\t\t\t\t\t\nFROM \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n( \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\tselect \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\te.database_name, \t\t\t\t\t\t\t\t\t\t\t\t\n\t\te.start_time, \t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\te.end_time, \t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\te.event_type, \t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\te.event_count \t\t\t\t\t\t\t\t\t\t\t\t\t\n\tfrom sys.event_log e \t\t\t\t\t\t\t\t\t\t\t\t\n\twhere e.event_category = N'connectivity' \t\t\t\t\t\t\t\n) as source_table \t\t\t\t\t\t\t\t\t\t\t\t\t\npivot \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n( \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\tsum(event_count) \t\t\t\t\t\t\t\t\t\t\t\t\t\n\tfor event_type in ([connection_successful], [connection_failed])\t\n) as pivot_table; \t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+        },
+        {
+            "ObjectName": "database_copies_table",
+            "ObjectID": 981578535,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "database_copies_table_v2",
+            "ObjectID": 1077578877,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "external_telemetry_resource_stats_table",
+            "ObjectID": 1157579162,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "external_telemetry_elastic_pool_resource_stats_table",
+            "ObjectID": 1173579219,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "external_telemetry_event_log_table",
+            "ObjectID": 1189579276,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "firewall_rules_table",
+            "ObjectID": 1205579333,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "database_firewall_rules_table",
+            "ObjectID": 1221579390,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "ipv6_firewall_rules_table",
+            "ObjectID": 1237579447,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "ipv6_database_firewall_rules_table",
+            "ObjectID": 1253579504,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "vnet_firewall_rules_table",
+            "ObjectID": 1269579561,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "database_events_table",
+            "ObjectID": 1285579618,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "database_event_types_table",
+            "ObjectID": 1301579675,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "database_event_context_table",
+            "ObjectID": 1317579732,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "database_event_update_history_table",
+            "ObjectID": 1333579789,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sql_pools_table",
+            "ObjectID": 1349579846,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sql_logins",
+            "ObjectID": 1381579960,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.sql_logins AS\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nSELECT\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nCAST(name AS sysname) AS name, login_id AS principal_id, sid AS sid,\t\t\t\t\t\t\t\nCAST('S' AS char(1)) AS type, CAST('SQL_Login' AS NVARCHAR(60)) AS type_desc,\t\t\t\t\t\nCAST(is_disabled AS BIT) AS is_disabled, create_date, modify_date,\t\t\t\t\t\t\t\nCAST(default_database_name AS sysname) AS default_database_name,\t\t\t\t\t\t\t\t\nCAST('us_english' AS sysname) AS default_language_name,\t\t\t\t\t\t\t\t\t\t\nCAST(NULL AS INTEGER) AS credential_id, CAST(0 AS BIT) AS is_policy_checked,\t\t\t\t\t\nCAST(0 AS BIT) AS is_expiration_checked, password_hash\t\t\t\t\t\t\t\t\t\t\nFROM sys.sql_logins_table\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nWHERE has_access('LG', login_id, 0, 1) = 1;\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+        },
+        {
+            "ObjectName": "firewall_rules",
+            "ObjectID": 1397580017,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.firewall_rules AS SELECT id, name, start_ip_address, end_ip_address, create_date, modify_date FROM sys.firewall_rules_table"
+        },
+        {
+            "ObjectName": "database_firewall_rules",
+            "ObjectID": 1413580074,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.database_firewall_rules AS SELECT id, name, start_ip_address, end_ip_address, create_date, modify_date FROM sys.database_firewall_rules_table"
+        },
+        {
+            "ObjectName": "bandwidth_usage",
+            "ObjectID": 1429580131,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.bandwidth_usage AS SELECT     time,     database_name,     data1 AS direction,     data2 AS class, data3 AS time_period,     CAST(ISNULL(quantity2, quantity) AS DECIMAL(38,6)) AS quantity FROM sys.metrics_table WHERE type = 'bandwidth'"
+        },
+        {
+            "ObjectName": "database_usage",
+            "ObjectID": 1445580188,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.database_usage AS SELECT x.date_only as time, x.sku, sum(x.quantity) as quantity FROM (     SELECT DATEADD(dd, 0, DATEDIFF(dd,0, time)) as date_only,            data1 AS sku,            CAST(ISNULL(quantity2, quantity) AS decimal(38,6)) as quantity     FROM sys.metrics_table     WHERE type = 'database' ) x GROUP BY x.date_only, x.sku "
+        },
+        {
+            "ObjectName": "resource_usage_ex",
+            "ObjectID": 1461580245,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.resource_usage_ex AS SELECT time, database_name, low_key, strdata1 as sku, resource_level AS resource_capacity, convert(int, data1) as usage_in_seconds, convert(decimal (18,2), data2 / 128.0) as storage_in_megabytes, convert(decimal (18,2), data3) as max_storage_in_megabytes FROM sys.resource_usage_table WHERE type = 1 "
+        },
+        {
+            "ObjectName": "resource_stats_ex",
+            "ObjectID": 1477580302,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.resource_stats_ex AS SELECT start_time, end_time, database_name, low_key, strdata1 as sku, resource_level AS resource_capacity, convert(int, data1) as usage_in_seconds, convert(decimal (18,2), data2 / 128.0) as storage_in_megabytes, convert(decimal (18,2), data3 / 128.0) as max_storage_in_megabytes FROM sys.resource_stats_table WHERE type = 1 "
+        },
+        {
+            "ObjectName": "resource_stats",
+            "ObjectID": 1493580359,
+            "ObjectType": "VIEW",
+            "Definition": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \tCREATE VIEW sys.resource_stats \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \tAS\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \tSELECT\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tstart_time, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tend_time, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tdatabase_name, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tsku, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tconvert(float, data1) as storage_in_megabytes,\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), data2) as avg_cpu_percent, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), data3) as avg_data_io_percent, \t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), data4) as avg_log_write_percent, \t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), convert(int, data5) * 1.0 / 100) as max_worker_percent,\t\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), convert(int, data6) * 1.0 / 100) as max_session_percent,\t\t\t\t\t\t\t\t   \t\tconvert(int, data7) as dtu_limit, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), convert(int, data8) * 1.0 / 100) as xtp_storage_percent,\t\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), convert(int, data9) * 1.0 / 100) as avg_login_rate_percent,\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), convert(int, data10) * 1.0 / 100) as avg_instance_cpu_percent,\t\t\t\t\t\t   \t\tconvert(decimal (5,2), convert(int, data11) * 1.0 / 100) as avg_instance_memory_percent,\t\t\t\t\t   \t\tconvert(decimal (5,2), convert(int, data12) * 1.0 / 100) as cpu_limit,                                               convert(float, data13) as allocated_storage_in_megabytes                                                       \t\tFROM sys.external_telemetry_resource_stats_table"
+        },
+        {
+            "ObjectName": "elastic_pool_resource_stats",
+            "ObjectID": 1541580530,
+            "ObjectType": "VIEW",
+            "Definition": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \tCREATE VIEW sys.elastic_pool_resource_stats \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \tAS\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \tSELECT\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tstart_time, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tend_time, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tresource_pool_name as elastic_pool_name, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), data1) as avg_cpu_percent, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), data2) as avg_data_io_percent,\t\t\t\t\t\t\t\t\t          \t\t\t   \t\tconvert(decimal (5,2), data3) as avg_log_write_percent, \t\t\t\t\t\t\t\t          \t\t\t   \t\tconvert(decimal (5,2), data4) as avg_storage_percent, \t\t\t\t\t\t\t            \t\t\t\t   \t\tconvert(decimal (5,2), data5) as max_worker_percent, \t\t\t\t\t\t\t            \t\t\t\t   \t\tconvert(decimal (5,2), data6) as max_session_percent,\t            \t\t\t\t\t\t\t\t\t\t   \t\tconvert(int, data7) as elastic_pool_dtu_limit,\t            \t\t\t\t\t\t\t\t\t\t\t\t   \t\tconvert(bigint, data8) / 1024 as elastic_pool_storage_limit_mb, \t\t\t\t\t\t            \t\t\t\t\tconvert(decimal (5,2), data9) as max_xtp_storage_percent,\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tconvert(decimal (5,2), avg_login_rate_percent) as avg_login_rate_percent,\t\t\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), avg_instance_cpu_percent) as avg_instance_cpu_percent,\t\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), avg_instance_memory_percent) as avg_instance_memory_percent,\t\t\t\t\t\t\t   \t\tconvert(decimal (5,2), resource_pool_cpu_limit) as elastic_pool_cpu_limit, \t\t\t\t          \t\t\t   \t\tconvert(decimal (5,2), allocated_data_storage_percent) as avg_allocated_storage_percent\t\t\t\t\t\t   \t\tFROM sys.external_telemetry_elastic_pool_resource_stats_table"
+        },
+        {
+            "ObjectName": "fn_sysdac_is_dac_creator",
+            "ObjectID": 1557580587,
+            "ObjectType": "SQL_SCALAR_FUNCTION",
+            "Definition": "CREATE FUNCTION [dbo].[fn_sysdac_is_dac_creator]() RETURNS int BEGIN DECLARE @engineEdition int = CAST(SERVERPROPERTY('EngineEdition') AS int); DECLARE @isdaccreator int; IF (@engineEdition IN (5,12)) BEGIN SET @isdaccreator = COALESCE(IS_MEMBER('dbmanager'), 0) | dbo.fn_sysdac_is_currentuser_sa() END ELSE BEGIN SET @isdaccreator = COALESCE(is_srvrolemember('dbcreator'), 0) END RETURN @isdaccreator; END "
+        },
+        {
+            "ObjectName": "fn_sysdac_is_currentuser_sa",
+            "ObjectID": 1573580644,
+            "ObjectType": "SQL_SCALAR_FUNCTION",
+            "Definition": "CREATE FUNCTION [dbo].[fn_sysdac_is_currentuser_sa]() RETURNS int BEGIN DECLARE @engineEdition int = CAST(SERVERPROPERTY('EngineEdition') AS int); DECLARE @is_sa int; IF (@engineEdition IN (5,12)) BEGIN SET @is_sa = 0 IF((CONVERT(varchar(85), suser_sid(), 2) LIKE '0106000000000164%')) SET @is_sa = 1 END IF (@is_sa = 0) BEGIN SET @is_sa = COALESCE(is_srvrolemember('sysadmin'), 0) END RETURN @is_sa; END "
+        },
+        {
+            "ObjectName": "fn_sysdac_is_login_creator",
+            "ObjectID": 1605580758,
+            "ObjectType": "SQL_SCALAR_FUNCTION",
+            "Definition": "CREATE FUNCTION [dbo].[fn_sysdac_is_login_creator]() RETURNS int BEGIN DECLARE @engineEdition int = CAST(SERVERPROPERTY('EngineEdition') AS int); DECLARE @islogincreator int; IF (@engineEdition IN (5,12)) BEGIN SET @islogincreator = COALESCE(IS_MEMBER('loginmanager'), 0) | dbo.fn_sysdac_is_currentuser_sa() END ELSE BEGIN SET @islogincreator = HAS_PERMS_BY_NAME(null, null, 'ALTER ANY LOGIN') END RETURN @islogincreator; END "
+        },
+        {
+            "ObjectName": "fn_sysdac_get_username",
+            "ObjectID": 1621580815,
+            "ObjectType": "SQL_SCALAR_FUNCTION",
+            "Definition": "CREATE FUNCTION [dbo].[fn_sysdac_get_username](@user_sid varbinary(85)) RETURNS sysname WITH EXECUTE AS OWNER BEGIN DECLARE @engineEdition int = CAST(SERVERPROPERTY('EngineEdition') AS int); DECLARE @current_user_name sysname; IF (@engineEdition IN (5,12)) BEGIN  SELECT @current_user_name = name FROM sys.sql_logins where sid = @user_sid END ELSE BEGIN SELECT @current_user_name = name FROM sys.syslogins where sid = @user_sid END RETURN @current_user_name; END "
+        },
+        {
+            "ObjectName": "sysdac_instances_internal",
+            "ObjectID": 1637580872,
+            "ObjectType": "USER_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "PK_sysdac_instances_internal",
+            "ObjectID": 1653580929,
+            "ObjectType": "PRIMARY_KEY_CONSTRAINT",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "UQ_sysdac_instances_internal",
+            "ObjectID": 1669580986,
+            "ObjectType": "UNIQUE_CONSTRAINT",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "DF__sysdac_in__descr__6477ECF3",
+            "ObjectID": 1685581043,
+            "ObjectType": "DEFAULT_CONSTRAINT",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "DF__sysdac_in__date___656C112C",
+            "ObjectID": 1701581100,
+            "ObjectType": "DEFAULT_CONSTRAINT",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysdac_history_internal",
+            "ObjectID": 1733581214,
+            "ObjectType": "USER_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "PK_sysdac_history_internal",
+            "ObjectID": 1749581271,
+            "ObjectType": "PRIMARY_KEY_CONSTRAINT",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "UQ_sysdac_history_internal",
+            "ObjectID": 1765581328,
+            "ObjectType": "UNIQUE_CONSTRAINT",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "DF__sysdac_hi__date___6B24EA82",
+            "ObjectID": 1797581442,
+            "ObjectType": "DEFAULT_CONSTRAINT",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "DF__sysdac_hi__date___6C190EBB",
+            "ObjectID": 1813581499,
+            "ObjectType": "DEFAULT_CONSTRAINT",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sysdac_instances",
+            "ObjectID": 1829581556,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW [dbo].[sysdac_instances] AS SELECT     case         when dbo.fn_sysdac_is_currentuser_sa() = 1 then dac_instances.instance_id         when sd.owner_sid = SUSER_SID() then dac_instances.instance_id         else NULL     end as instance_id,     dac_instances.instance_name,     dac_instances.type_name,     dac_instances.type_version,     dac_instances.description,     case         when dbo.fn_sysdac_is_currentuser_sa() = 1 then dac_instances.type_stream         when sd.owner_sid = SUSER_SID() then dac_instances.type_stream         else NULL     end as type_stream,     dac_instances.date_created,     dac_instances.created_by,     dac_instances.instance_name as database_name FROM sysdac_instances_internal dac_instances LEFT JOIN sys.databases sd     ON dac_instances.instance_name = sd.name "
+        },
+        {
+            "ObjectName": "sp_sysdac_ensure_dac_creator",
+            "ObjectID": 1845581613,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE dbo.sp_sysdac_ensure_dac_creator AS BEGIN IF (dbo.fn_sysdac_is_dac_creator() != 1) BEGIN RAISERROR(36010, -1, -1); RETURN(1); END END"
+        },
+        {
+            "ObjectName": "sp_sysdac_add_instance",
+            "ObjectID": 1861581670,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE [dbo].[sp_sysdac_add_instance]     @type_name sysname,     @instance_id UniqueIdentifier = NULL,     @instance_name sysname,     @type_version NVARCHAR(64) = NULL,     @description nvarchar(4000) = N'',     @type_stream varbinary(max) AS SET NOCOUNT ON; BEGIN     DECLARE @retval INT     DECLARE @null_column sysname     SET @null_column = NULL     IF (@type_name IS NULL OR @type_name = N'')         SET @null_column = '@type_name'     ELSE IF (@instance_name IS NULL OR @instance_name = N'')         SET @null_column = '@instance_name'     ELSE IF (@instance_id IS NULL )         SET @null_column = '@instance_id'     ELSE IF( @type_version = N'')         SET @null_column = '@type_version'     ELSE IF( @type_stream IS NULL)         SET @null_column = '@type_stream'      IF @null_column IS NOT NULL     BEGIN         RAISERROR(14043, -1, -1, @null_column, 'sp_sysdac_add_instance')         RETURN(1)     END     if (dbo.fn_sysdac_is_dac_creator() != 1)     BEGIN         RAISERROR(36010, -1, -1);         RETURN(1);     END     IF EXISTS (SELECT * FROM dbo.sysdac_instances_internal WHERE instance_name = @instance_name)     BEGIN         RAISERROR(36001, -1, -1, 'DacInstance', @instance_name)         RETURN(1)     END     IF NOT EXISTS (SELECT * from sys.sysdatabases WHERE name = @instance_name)     BEGIN         RAISERROR(36005, -1, -1, @instance_name)         RETURN(1)     END     INSERT INTO [dbo].[sysdac_instances_internal]          (instance_id, type_name, instance_name, type_version, description, type_stream)     VALUES          (@instance_id, @type_name, @instance_name, @type_version, @description, @type_stream)     SELECT @retval = @@error     RETURN(@retval) END "
+        },
+        {
+            "ObjectName": "sp_sysdac_add_history_entry",
+            "ObjectID": 1877581727,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE [dbo].[sp_sysdac_add_history_entry]     @sequence_id int,     @instance_id UniqueIdentifier = NULL,     @action_type tinyint = NULL,     @action_status tinyint = NULL,     @dac_object_type tinyint = NULL,     @required bit = NULL,     @dac_object_name_pretran sysname = N'',     @dac_object_name_posttran sysname = N'',     @sqlscript nvarchar(max) = N'',     @payload varbinary(max) = NULL,     @comments varchar(max) = N'',     @error_string nvarchar(max) = N'',     @action_id int = NULL OUTPUT AS SET NOCOUNT ON; BEGIN     DECLARE @retval INT     DECLARE @null_column sysname     SET @null_column = NULL     IF (@instance_id IS NULL)         SET @null_column = '@instance_id'     ELSE IF (@action_type IS NULL)         SET @null_column = '@action_type'     ELSE IF (@action_status IS NULL)         SET @null_column = '@action_status'     ELSE IF (@dac_object_type IS NULL)         SET @null_column = '@dac_object_type'     ELSE IF (@required IS NULL)         SET @null_column = '@required'     IF @null_column IS NOT NULL     BEGIN         RAISERROR(14043, -1, -1, @null_column, 'sp_sysdac_add_history_entry')         RETURN(1)     END     IF (@comments IS NULL)     BEGIN         SET @comments = N''     END     IF (@action_type <= 4)     BEGIN         IF (dbo.fn_sysdac_is_dac_creator() != 1)         BEGIN             RAISERROR(36010, -1, -1);             RETURN(1);         END     END     ELSE IF NOT EXISTS (SELECT * from dbo.sysdac_instances WHERE instance_id = @instance_id)     BEGIN         RAISERROR(36004, -1, -1)         RETURN(1)     END     BEGIN TRAN     IF (@action_id IS NULL)     BEGIN         SET @action_id = (         SELECT ISNULL(MAX(action_id) + 1, 0)         FROM dbo.sysdac_history_internal WITH (UPDLOCK, HOLDLOCK))     END     INSERT INTO [dbo].[sysdac_history_internal]          (action_id, sequence_id, instance_id, action_type, dac_object_type, action_status, required,          dac_object_name_pretran, dac_object_name_posttran, sqlscript, payload, comments, error_string)     VALUES          (@action_id, @sequence_id, @instance_id, @action_type, @dac_object_type, @action_status, @required,          @dac_object_name_pretran, @dac_object_name_posttran, @sqlscript, @payload, @comments, @error_string)     COMMIT     SELECT @retval = @@error     RETURN(@retval) END"
+        },
+        {
+            "ObjectName": "sp_sysdac_delete_instance",
+            "ObjectID": 1893581784,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE [dbo].[sp_sysdac_delete_instance]     @instance_id UniqueIdentifier AS SET NOCOUNT ON; BEGIN     DECLARE @retval INT     DECLARE @partId INT     IF @instance_id IS NULL     BEGIN        RAISERROR(14043, -1, -1, 'instance_id', 'sp_sysdac_delete_instance')        RETURN(1)     END     IF NOT EXISTS (SELECT * from dbo.sysdac_instances WHERE instance_id = @instance_id)     BEGIN         RAISERROR(36004, -1, -1)         RETURN(1)     END     DELETE FROM sysdac_instances_internal WHERE instance_id=@instance_id     SELECT @retval = @@error     RETURN(@retval) END "
+        },
+        {
+            "ObjectName": "sp_sysdac_upgrade_instance",
+            "ObjectID": 1909581841,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE [dbo].[sp_sysdac_upgrade_instance]     @source_instance_id UniqueIdentifier = NULL,     @instance_id UniqueIdentifier = NULL,     @instance_name sysname,     @database_name sysname AS SET NOCOUNT ON; BEGIN     DECLARE @retval INT     DECLARE @null_column sysname     SET @null_column = NULL     IF (@source_instance_id IS NULL)         SET @null_column = '@source_instance_id'     ELSE IF (@instance_id IS NULL )         SET @null_column = '@instance_id'     ELSE IF( @database_name IS NULL)         SET @null_column = '@database_name'     IF @null_column IS NOT NULL     BEGIN         RAISERROR(14043, -1, -1, @null_column, 'sp_sysdac_upgrade_instance')         RETURN(1)     END     IF NOT EXISTS (SELECT * from dbo.sysdac_instances WHERE instance_id = @instance_id)     BEGIN         RAISERROR(36004, -1, -1)         RETURN(1)     END     IF NOT EXISTS (SELECT * from dbo.sysdac_instances_internal WHERE instance_id = @instance_id)     BEGIN         RAISERROR(36004, -1, -1)         RETURN(1)     END     BEGIN TRAN     EXEC dbo.sp_sysdac_delete_instance @instance_id = @instance_id     UPDATE [dbo].[sysdac_instances_internal]         SET instance_id   = @instance_id,         instance_name = @instance_name     WHERE instance_id = @source_instance_id     COMMIT     SELECT @retval = @@error     RETURN(@retval) END "
+        },
+        {
+            "ObjectName": "sp_sysdac_drop_database",
+            "ObjectID": 1925581898,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE [dbo].[sp_sysdac_drop_database]     @database_name sysname AS SET NOCOUNT ON; BEGIN     IF EXISTS(SELECT name FROM sys.databases WHERE name = @database_name)     BEGIN         DECLARE @engineEdition int = CAST(SERVERPROPERTY('EngineEdition') AS int);         DECLARE @quoteddbname nvarchar(258)         SET @quoteddbname = QUOTENAME(@database_name)         DECLARE @sqlstatement nvarchar(1000)         IF (@engineEdition NOT IN (5,12))         BEGIN             SET @sqlstatement = 'ALTER DATABASE ' + @quoteddbname + ' SET SINGLE_USER WITH ROLLBACK IMMEDIATE'             EXEC (@sqlstatement)         END         SET @sqlstatement = 'DROP DATABASE ' + @quoteddbname         IF (@engineEdition IN (5,12))         BEGIN             DECLARE @dbname SYSNAME             SET @dbname = db_name()             RAISERROR (36012, 0, 1, @dbname, @sqlstatement);             SELECT @dbname as databasename, @sqlstatement as sqlscript         END         ELSE         BEGIN             EXEC (@sqlstatement)         END     END     RETURN(@@error) END "
+        },
+        {
+            "ObjectName": "sp_sysdac_rename_database",
+            "ObjectID": 1941581955,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE [dbo].[sp_sysdac_rename_database]     @database_name sysname,     @new_name sysname AS SET NOCOUNT ON; BEGIN     DECLARE @sqlstatement nvarchar(1000)     DECLARE @quoted_database_name nvarchar(258)     SET @quoted_database_name = QUOTENAME(@database_name)     SET @sqlstatement = 'ALTER DATABASE ' + @quoted_database_name + ' SET SINGLE_USER WITH ROLLBACK IMMEDIATE'     EXEC (@sqlstatement)     EXEC sp_rename @objname=@quoted_database_name, @newname=@new_name, @objtype='DATABASE'     DECLARE @quoted_new_name nvarchar(258)     SET @quoted_new_name = QUOTENAME(@new_name)     SET @sqlstatement = 'ALTER DATABASE ' + @quoted_new_name + ' SET MULTI_USER WITH ROLLBACK IMMEDIATE'     EXEC (@sqlstatement)     RETURN(@@error) END "
+        },
+        {
+            "ObjectName": "sp_sysdac_setreadonly_database",
+            "ObjectID": 1957582012,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE [dbo].[sp_sysdac_setreadonly_database] @database_name sysname, @readonly bit = 0 AS SET NOCOUNT ON; BEGIN DECLARE @sqlstatement nvarchar(1000) DECLARE @quoted_database_name nvarchar(258) SET @quoted_database_name = QUOTENAME(@database_name) IF (@readonly = 0) SET @sqlstatement = 'ALTER DATABASE ' + @quoted_database_name + ' SET READ_ONLY WITH ROLLBACK IMMEDIATE' ELSE IF (@readonly = 1) SET @sqlstatement = 'ALTER DATABASE ' + @quoted_database_name + ' SET READ_WRITE WITH ROLLBACK IMMEDIATE' EXEC (@sqlstatement) RETURN(@@error) END "
+        },
+        {
+            "ObjectName": "sp_sysdac_rollback_committed_step",
+            "ObjectID": 1973582069,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE [dbo].[sp_sysdac_rollback_committed_step]     @action_id INT,     @sequence_id INT AS SET NOCOUNT ON; BEGIN       DECLARE @retval INT       DECLARE @null_column sysname      SET @null_column = NULL     IF (@action_id IS NULL)         SET @null_column = '@action_id'     ELSE IF (@sequence_id IS NULL)         SET @null_column = '@sequence_id'     IF @null_column IS NOT NULL     BEGIN     RAISERROR(14043, -1, -1, @null_column, 'sp_sysdac_rollback_committed_step')     RETURN(1)     END     DECLARE @instance_id UNIQUEIDENTIFIER     DECLARE @part_name NVARCHAR(128)     DECLARE @action_type TINYINT     DECLARE @dac_object_type TINYINT     DECLARE @action_status TINYINT     DECLARE @dac_object_name_pretran SYSNAME     DECLARE @dac_object_name_posttran SYSNAME     DECLARE @sqlstatement NVARCHAR(1000)     SELECT @instance_id = instance_id,          @action_id = action_id,         @action_type = action_type,         @sequence_id = sequence_id,         @dac_object_type = dac_object_type,         @action_status = action_status,          @dac_object_name_pretran = dac_object_name_pretran,         @dac_object_name_posttran = dac_object_name_posttran     FROM sysdac_history_internal     WHERE action_id = @action_id AND sequence_id = @sequence_id     DECLARE @create TINYINT     DECLARE @rename TINYINT     DECLARE @register TINYINT     DECLARE @database TINYINT     DECLARE @rollback TINYINT     DECLARE @rollback_pending TINYINT     DECLARE @rollback_success TINYINT     DECLARE @setreadonly TINYINT     DECLARE @setreadwrite TINYINT     SET @create = 1     SET @rename = 2     SET @register = 3     SET @database = 2     SET @rollback = 4     SET @rollback_pending = 0     SET @rollback_success = 1     SET @setreadonly = 12     SET @setreadwrite = 16     IF @action_type = @create AND @dac_object_type = @database     BEGIN         RAISERROR(N'%d, %d, %s', -1, 1, @sequence_id, @rollback_pending, NULL) WITH NOWAIT         EXEC dbo.sp_sysdac_drop_database @database_name = @dac_object_name_pretran         RAISERROR(N'%d, %d, %s', -1, 1, @sequence_id, @rollback_success, NULL) WITH NOWAIT     END     ELSE IF @action_type = @rename AND @dac_object_type = @database     BEGIN         RAISERROR(N'%d, %d, %s', -1, 1, @sequence_id, @rollback_pending, NULL) WITH NOWAIT         EXEC dbo.sp_sysdac_rename_database @dac_object_name_posttran, @dac_object_name_pretran         RAISERROR(N'%d, %d, %s', -1, 1, @sequence_id, @rollback_success, NULL) WITH NOWAIT     END     ELSE IF @action_type = @register     BEGIN         SET @instance_id = (         SELECT instance_id          FROM dbo.sysdac_instances_internal         WHERE instance_name = @dac_object_name_pretran)         RAISERROR(N'%d, %d, %s', -1, 1, @sequence_id, @rollback_pending, NULL) WITH NOWAIT         EXEC dbo.sp_sysdac_delete_instance @instance_id = @instance_id         RAISERROR(N'%d, %d, %s', -1, 1, @sequence_id, @rollback_success, NULL) WITH NOWAIT     END     ELSE IF @action_type = @setreadonly      BEGIN         RAISERROR(N'%d, %d, %s', -1, 1, @sequence_id, @rollback_pending, NULL) WITH NOWAIT         EXEC dbo.sp_sysdac_setreadonly_database @database_name = @dac_object_name_pretran, @readonly = 1         RAISERROR(N'%d, %d, %s', -1, 1, @sequence_id, @rollback_success, NULL) WITH NOWAIT      END     ELSE IF @action_type = @setreadwrite      BEGIN         RAISERROR(N'%d, %d, %s', -1, 1, @sequence_id, @rollback_pending, NULL) WITH NOWAIT         EXEC dbo.sp_sysdac_setreadonly_database @database_name = @dac_object_name_pretran, @readonly = 0         RAISERROR(N'%d, %d, %s', -1, 1, @sequence_id, @rollback_success, NULL) WITH NOWAIT     END     UPDATE sysdac_history_internal     SET action_status = @rollback     WHERE action_id = @action_id AND sequence_id = @sequence_id     SELECT @retval = @@error     RETURN(@retval) END"
+        },
+        {
+            "ObjectName": "QueryNotificationErrorsQueue",
+            "ObjectID": 1977058079,
+            "ObjectType": "SERVICE_QUEUE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sp_sysdac_update_history_entry",
+            "ObjectID": 1989582126,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE [dbo].[sp_sysdac_update_history_entry]     @action_id int,     @instance_id UniqueIdentifier = NULL,     @action_type tinyint = NULL,     @dac_object_type tinyint = NULL,     @action_status tinyint = NULL,     @dac_object_name_pretran sysname = N'',     @dac_object_name_posttran sysname = N'',     @sqlscript nvarchar(max) = N'',     @error_string nvarchar(max) = N'' AS SET NOCOUNT ON; BEGIN     DECLARE @retval INT     DECLARE @null_column sysname     SET @null_column = NULL     IF (@instance_id IS NULL)         SET @null_column = '@instance_id'     ELSE IF (@action_type IS NULL)         SET @null_column = '@action_type'     ELSE IF (@dac_object_type IS NULL)         SET @null_column = '@dac_object_type'     ELSE IF (@action_status IS NULL)         SET @null_column = '@action_status'     IF @null_column IS NOT NULL     BEGIN         RAISERROR(14043, -1, -1, @null_column, 'sp_sysdac_update_history_entry')         RETURN(1)     END     DECLARE @username SYSNAME     SET @username = (SELECT created_by                 FROM dbo.sysdac_history_internal                 WHERE instance_id              = @instance_id AND                       action_id                = @action_id AND                       action_type              = @action_type AND                       dac_object_type          = @dac_object_type AND                       dac_object_name_pretran  = @dac_object_name_pretran AND                       dac_object_name_posttran = @dac_object_name_posttran)     IF ((@username != [dbo].[fn_sysdac_get_currentusername]()) AND ([dbo].[fn_sysdac_is_currentuser_sa]() != 1))     BEGIN         RAISERROR(36011, -1, -1);         RETURN(1);     END     UPDATE [dbo].[sysdac_history_internal]     SET            action_status           = @action_status,            sqlscript               = @sqlscript,            error_string            = @error_string,            date_modified           = (SELECT GETDATE())    WHERE            action_id               = @action_id AND            action_type             = @action_type AND            dac_object_type         = @dac_object_type AND            dac_object_name_pretran = @dac_object_name_pretran AND            dac_object_name_posttran = @dac_object_name_posttran    SELECT @retval = @@error    RETURN(@retval) END "
+        },
+        {
+            "ObjectName": "queue_messages_1977058079",
+            "ObjectID": 1993058136,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sp_sysdac_resolve_pending_entry",
+            "ObjectID": 2005582183,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE [dbo].[sp_sysdac_resolve_pending_entry]     @action_id INT,     @sequence_id INT AS SET NOCOUNT ON; BEGIN     DECLARE @null_column sysname     SET @null_column = NULL     IF (@action_id IS NULL)        SET @null_column = '@action_id'     ELSE IF (@sequence_id IS NULL)        SET @null_column = '@sequence_id'     IF @null_column IS NOT NULL     BEGIN         RAISERROR(14043, -1, -1, @null_column, 'sp_sysdac_resolve_pending_entry')         RETURN(1)     END     DECLARE @instance_id UNIQUEIDENTIFIER     DECLARE @action_type TINYINT     DECLARE @dac_object_type TINYINT     DECLARE @action_status TINYINT     DECLARE @dac_object_name_pretran SYSNAME     DECLARE @dac_object_name_posttran SYSNAME     SELECT @instance_id = instance_id,          @action_type = action_type,          @dac_object_type = dac_object_type,          @dac_object_name_pretran = dac_object_name_pretran,          @dac_object_name_posttran = dac_object_name_posttran     FROM sysdac_history_internal     WHERE action_id = @action_id AND sequence_id = @sequence_id     DECLARE @create TINYINT     DECLARE @rename TINYINT     DECLARE @database TINYINT     DECLARE @success TINYINT     DECLARE @rollback TINYINT     DECLARE @fail TINYINT     DECLARE @register TINYINT     DECLARE @unregister TINYINT     DECLARE @upgrade TINYINT     DECLARE @readonly TINYINT     DECLARE @readwrite TINYINT     DECLARE @disconnectusers TINYINT     DECLARE @readonlymode INT     SET @create = 1     SET @rename = 2     SET @database = 2     SET @success = 2     SET @rollback = 4     SET @fail = 3     SET @register = 3     SET @unregister = 14     SET @upgrade = 15     SET @readonly = 12     SET @readwrite = 16     SET @disconnectusers = 17     SET @readonlymode = 1024     SET @action_status = @fail     IF @action_type = @create AND @dac_object_type = @database     BEGIN         IF EXISTS(SELECT 1 FROM sys.sysdatabases WHERE name = @dac_object_name_pretran)             SET @action_status = @success     END     ELSE IF @action_type = @rename AND @dac_object_type = @database     BEGIN         IF (EXISTS(SELECT 1 FROM sys.sysdatabases WHERE name = @dac_object_name_posttran)) AND         (NOT EXISTS(SELECT 1 FROM sys.sysdatabases WHERE name = @dac_object_name_pretran))            SET @action_status = @success     END     ELSE IF @action_type = @register     BEGIN     IF (EXISTS(SELECT 1 FROM dbo.sysdac_instances_internal WHERE instance_name = @dac_object_name_pretran))         SET @action_status = @success     END     ELSE IF @action_type = @unregister     BEGIN         IF (NOT EXISTS(SELECT 1 FROM dbo.sysdac_instances_internal WHERE instance_name = @dac_object_name_pretran))             SET @action_status = @success     END     ELSE IF @action_type = @upgrade     BEGIN         IF (EXISTS(SELECT 1 FROM dbo.sysdac_instances_internal WHERE instance_name = @dac_object_name_posttran)) AND         (NOT EXISTS(SELECT 1 FROM dbo.sysdac_instances_internal WHERE instance_name = @dac_object_name_pretran))            SET @action_status = @success     END     ELSE IF @action_type = @readonly OR @action_type = @disconnectusers     BEGIN         IF (EXISTS(SELECT 1 FROM sys.sysdatabases                        WHERE ((status & @readonlymode) = @readonlymode) AND name=@dac_object_name_pretran))            SET @action_status = @success     END     ELSE IF @action_type = @readwrite     BEGIN         IF (EXISTS(SELECT 1 FROM sys.sysdatabases                         WHERE ((status & @readonlymode) != @readonlymode) AND name=@dac_object_name_pretran))             SET @action_status = @success     END     UPDATE sysdac_history_internal     SET action_status = @action_status     WHERE action_id = @action_id AND sequence_id = @sequence_id END "
+        },
+        {
+            "ObjectName": "EventNotificationErrorsQueue",
+            "ObjectID": 2009058193,
+            "ObjectType": "SERVICE_QUEUE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sp_sysdac_rollback_pending_object",
+            "ObjectID": 2021582240,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE [dbo].[sp_sysdac_rollback_pending_object]     @action_id INT AS SET NOCOUNT ON; BEGIN      IF (@action_id IS NULL)     BEGIN         RAISERROR(14043, -1, -1, '@action_id', 'sp_sysdac_rollback_pending_object')         RETURN(1)     END     DECLARE @sequence_id INT     DECLARE @action_status TINYINT     DECLARE @header_id bit     DECLARE @pending TINYINT     DECLARE @success TINYINT     DECLARE @true bit     DECLARE @rollback TINYINT     DECLARE @fail TINYINT     DECLARE @rollback_failure TINYINT     SET @header_id = 0     SET @pending = 1     SET @success = 2     SET @true = 1     SET @rollback = 4     SET @fail = 3     SET @rollback_failure = 2     IF ((SELECT action_status         FROM sysdac_history_internal         WHERE action_id = @action_id AND sequence_id = @header_id) != @pending)         RETURN;     SET @sequence_id = (SELECT TOP 1 sequence_id                    FROM sysdac_history_internal                     WHERE sequence_id != @header_id AND action_id = @action_id AND action_status = @pending)     IF (@sequence_id IS NOT NULL)         EXEC dbo.sp_sysdac_resolve_pending_entry @action_id = @action_id, @sequence_id = @sequence_id     IF NOT EXISTS (SELECT 1                FROM sysdac_history_internal                 WHERE action_id = @action_id AND sequence_id != @header_id AND required = @true AND action_status != @success)     BEGIN         UPDATE dbo.sysdac_history_internal         SET action_status = @success         WHERE action_id = @action_id AND sequence_id = @header_id         RETURN     END     BEGIN TRY     WHILE EXISTS( SELECT 1                    FROM sysdac_history_internal                     WHERE action_status = @success AND action_id = @action_id AND sequence_id > 0)     BEGIN        SELECT TOP 1 @sequence_id = sequence_id,                    @action_status = action_status        FROM sysdac_history_internal        WHERE action_status = @success AND action_id = @action_id AND sequence_id != @header_id        ORDER BY sequence_id DESC        EXEC dbo.sp_sysdac_rollback_committed_step @action_id = @action_id, @sequence_id = @sequence_id     END    SET @action_status = @rollback     END TRY     BEGIN CATCH         DECLARE @error_message NVARCHAR(4000);         SELECT @error_message = ERROR_MESSAGE()         RAISERROR(N'%d, %d, %s', -1, 1, @sequence_id, @rollback_failure, @error_message) WITH NOWAIT         SET @action_status = @fail     END CATCH     UPDATE dbo.sysdac_history_internal     SET action_status = @action_status     WHERE action_id = @action_id AND sequence_id = @header_id END "
+        },
+        {
+            "ObjectName": "queue_messages_2009058193",
+            "ObjectID": 2025058250,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "sp_sysdac_rollback_all_pending_objects",
+            "ObjectID": 2037582297,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE [dbo].[sp_sysdac_rollback_all_pending_objects] (@return_scripts TINYINT = 0) AS  SET NOCOUNT ON; BEGIN     DECLARE @action_id INT     DECLARE @sequence_id INT     DECLARE @header_id bit     DECLARE @pending TINYINT     SET @header_id = 0     SET @pending = 1     CREATE TABLE #additional_scripts(databasename sysname, sqlscript VARCHAR(MAX))     WHILE EXISTS (SELECT 1 FROM sysdac_history_internal WHERE sequence_id = @header_id AND action_status = @pending)     BEGIN          SET @action_id = (SELECT TOP 1 action_id FROM sysdac_history_internal WHERE sequence_id = @header_id AND action_status = @pending)          INSERT INTO #additional_scripts          EXEC dbo.sp_sysdac_rollback_pending_object @action_id = @action_id     END     IF (@return_scripts = 1)     BEGIN         SELECT databasename, sqlscript FROM #additional_scripts     END END"
+        },
+        {
+            "ObjectName": "ServiceBrokerQueue",
+            "ObjectID": 2041058307,
+            "ObjectType": "SERVICE_QUEUE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "billing",
+            "ObjectID": 2053582354,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.billing AS SELECT time, type, database_name, data1, data2, data3, data4, quantity, billed, event_id FROM sys.billing_table "
+        },
+        {
+            "ObjectName": "queue_messages_2041058307",
+            "ObjectID": 2057058364,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "dm_database_copies",
+            "ObjectID": 2069582411,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.dm_database_copies AS SELECT dc.database_id, cast (dc.start_date as datetimeoffset) AS 'start_date', cast (dc.modify_date as datetimeoffset) AS 'modify_date', cast (dc.percent_complete as real) AS 'percent_complete', dc.error_code, dc.error_desc, dc.error_severity, dc.error_state, dc.link_id AS copy_guid, CONVERT(sysname, dc.other_server_name) AS 'partner_server', CONVERT(sysname, dc.other_database_name) AS 'partner_database', CONVERT(tinyint, dc.replication_state) AS 'replication_state', CONVERT(nvarchar(256), CASE WHEN dc.replication_state = 0 THEN N'PENDING' WHEN dc.replication_state = 1 THEN N'SEEDING' WHEN dc.replication_state = 2 THEN N'CATCH_UP' WHEN dc.replication_state = 3 THEN N'RE_SEEDING' WHEN dc.replication_state = 4 THEN N'SUSPENDED' ELSE NULL END) AS 'replication_state_desc', CAST(-1 AS int) AS 'maximum_lag', dc.is_continuous_copy, dc.is_target_role, dc.is_offline_secondary, CONVERT(bit, CASE WHEN dc.replication_state = 4 THEN 0 ELSE 1 END) AS 'is_interlink_connected' FROM sys.database_copies_table_v2 dc WHERE EXISTS(SELECT login_id FROM sys.sql_logins_table WHERE is_server_admin = 1 and sid = suser_sid()) OR IS_MEMBER(N'dbmanager') = 1 OR USER_NAME() = 'dbo'"
+        },
+        {
+            "ObjectName": "filestream_tombstone_2073058421",
+            "ObjectID": 2073058421,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "geo_replication_links",
+            "ObjectID": 2085582468,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.geo_replication_links AS SELECT dc.database_id, cast (dc.start_date as datetimeoffset) AS 'start_date', cast (dc.modify_date as datetimeoffset) AS 'modify_date', dc.link_id AS 'link_guid', CONVERT(sysname, dc.other_server_name) AS 'partner_server', CONVERT(sysname, dc.other_database_name) AS 'partner_database', CONVERT(tinyint, dc.replication_state) AS 'replication_state', CONVERT(nvarchar(256), CASE WHEN dc.replication_state = 0 THEN N'PENDING' WHEN dc.replication_state = 1 THEN N'SEEDING' WHEN dc.replication_state = 2 THEN N'CATCH_UP' WHEN dc.replication_state = 3 THEN N'RE_SEEDING' WHEN dc.replication_state = 4 THEN N'SUSPENDED' ELSE NULL END) AS 'replication_state_desc', CONVERT(tinyint, dc.is_target_role) AS 'role', CONVERT(nvarchar(256), CASE WHEN dc.is_target_role = 0 THEN N'PRIMARY' ELSE N'SECONDARY' END) AS 'role_desc', CONVERT(tinyint, CASE WHEN dc.is_offline_secondary = 1 THEN 0 ELSE 2 END) AS 'secondary_allow_connections', CONVERT(nvarchar(256), CASE WHEN dc.is_offline_secondary = 1 THEN N'NO' ELSE N'ALL' END) AS 'secondary_allow_connections_desc', dc.percent_complete AS 'percent_copied' FROM sys.database_copies_table_v2 dc WHERE (EXISTS(SELECT login_id FROM sys.sql_logins_table WHERE is_server_admin = 1 and sid = suser_sid()) OR IS_MEMBER(N'dbmanager') = 1 OR USER_NAME() = 'dbo')AND dc.is_continuous_copy = 1"
+        },
+        {
+            "ObjectName": "syscommittab",
+            "ObjectID": 2089058478,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "event_history_log",
+            "ObjectID": 2101582525,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.event_history_log AS \nselect \n\te.source_sequence_id \nfrom sys.database_event_update_history_table e \n; \n"
+        },
+        {
+            "ObjectName": "filetable_updates_2105058535",
+            "ObjectID": 2105058535,
+            "ObjectType": "INTERNAL_TABLE",
+            "Definition": "No definition available"
+        },
+        {
+            "ObjectName": "database_error_stats",
+            "ObjectID": 2117582582,
+            "ObjectType": "VIEW",
+            "Definition": "CREATE VIEW sys.database_error_stats AS \nselect \n\tec.database_name, \n\te.start_time, \n\te.end_time, \n\tet.event_subtype as error_number, \n\te.event_count as error_count \n  from sys.database_events_table e \n  join sys.database_event_types_table et on e.event_type_id = et.id \n  join sys.database_event_context_table ec on e.event_context_id = ec.id \n where et.event_category = N'sqlerror' \n; \n"
+        },
+        {
+            "ObjectName": "TT_DatabaseEventsInputTable_7F2BE32F",
+            "ObjectID": 2133582639,
+            "ObjectType": "TYPE_TABLE",
+            "Definition": "No definition available"
+        }
+    ]
+}

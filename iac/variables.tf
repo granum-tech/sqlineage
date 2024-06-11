@@ -8,3 +8,9 @@ variable "location" {
   type        = string
   default     = "East US"
 }
+
+variable "increment" {
+  description = "The increment i.e. 001, 002, 003"
+  type        = string
+  default     = "001"
+}
