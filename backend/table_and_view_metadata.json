@@ -1,0 +1,2069 @@
+{
+    "sqldb-sqlin-dev-001": [
+        {
+            "ObjectName": "raw_sales",
+            "ObjectID": 1813581499,
+            "ObjectType": "USER_TABLE",
+            "Columns": [
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "first_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "last_name",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 5,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 1,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_quantity",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_revenue",
+                    "ColumnID": 3,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "running_total",
+                    "ColumnID": 6,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                }
+            ]
+        },
+        {
+            "ObjectName": "raw_customers",
+            "ObjectID": 1861581670,
+            "ObjectType": "USER_TABLE",
+            "Columns": [
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "first_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "last_name",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 5,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 1,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_quantity",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_revenue",
+                    "ColumnID": 3,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "running_total",
+                    "ColumnID": 6,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                }
+            ]
+        },
+        {
+            "ObjectName": "cleaned_sales",
+            "ObjectID": 1941581955,
+            "ObjectType": "USER_TABLE",
+            "Columns": [
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "first_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "last_name",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 5,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 1,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_quantity",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_revenue",
+                    "ColumnID": 3,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "running_total",
+                    "ColumnID": 6,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                }
+            ]
+        },
+        {
+            "ObjectName": "cleaned_customers",
+            "ObjectID": 1973582069,
+            "ObjectType": "USER_TABLE",
+            "Columns": [
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "first_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "last_name",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 5,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 1,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_quantity",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_revenue",
+                    "ColumnID": 3,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "running_total",
+                    "ColumnID": 6,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                }
+            ]
+        },
+        {
+            "ObjectName": "sales_summary",
+            "ObjectID": 2037582297,
+            "ObjectType": "USER_TABLE",
+            "Columns": [
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "first_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "last_name",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 5,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 1,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_quantity",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_revenue",
+                    "ColumnID": 3,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "running_total",
+                    "ColumnID": 6,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                }
+            ]
+        },
+        {
+            "ObjectName": "sales_performance",
+            "ObjectID": 2053582354,
+            "ObjectType": "USER_TABLE",
+            "Columns": [
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "first_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "last_name",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 5,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 1,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_quantity",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_revenue",
+                    "ColumnID": 3,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "running_total",
+                    "ColumnID": 6,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                }
+            ]
+        },
+        {
+            "ObjectName": "customer_sales_view",
+            "ObjectID": 2069582411,
+            "ObjectType": "VIEW",
+            "Columns": [
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "first_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "last_name",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 5,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "quantity",
+                    "ColumnID": 4,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "created_at",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 1,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_quantity",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_revenue",
+                    "ColumnID": 3,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 2,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 4,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "running_total",
+                    "ColumnID": 6,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "customer_id",
+                    "ColumnID": 1,
+                    "DataType": "int",
+                    "MaxLength": 4,
+                    "IsNullable": false,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "full_name",
+                    "ColumnID": 2,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "email",
+                    "ColumnID": 3,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "product",
+                    "ColumnID": 4,
+                    "DataType": "varchar",
+                    "MaxLength": 255,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "total_price",
+                    "ColumnID": 5,
+                    "DataType": "decimal",
+                    "MaxLength": 9,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                },
+                {
+                    "ColumnName": "sale_date",
+                    "ColumnID": 6,
+                    "DataType": "datetime",
+                    "MaxLength": 8,
+                    "IsNullable": true,
+                    "IsIdentity": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "sqldb-sqlin-dev-001": [
+        {
+            "ObjectName": "sp_clean_sales",
+            "ObjectID": 1909581841,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE bronze.sp_clean_sales\r\nAS\r\nBEGIN\r\n    MERGE silver.cleaned_sales AS target\r\n    USING bronze.raw_sales AS source\r\n    ON target.sale_id = source.sale_id\r\n    WHEN MATCHED THEN\r\n        UPDATE SET\r\n            target.customer_id = source.customer_id,\r\n            target.product = source.product,\r\n            target.quantity = source.quantity,\r\n            target.total_price = source.quantity * source.price,\r\n            target.sale_date = source.sale_date\r\n    WHEN NOT MATCHED THEN\r\n        INSERT (sale_id, customer_id, product, quantity, total_price, sale_date)\r\n        VALUES (source.sale_id, source.customer_id, source.product, source.quantity, source.quantity * source.price, source.sale_date);\r\nEND;"
+        },
+        {
+            "ObjectName": "sp_clean_customers",
+            "ObjectID": 1925581898,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE bronze.sp_clean_customers\r\nAS\r\nBEGIN\r\n    MERGE bronze.cleaned_customers AS target\r\n    USING bronze.raw_customers AS source\r\n    ON target.customer_id = source.customer_id\r\n    WHEN MATCHED THEN\r\n        UPDATE SET\r\n            target.full_name = CONCAT(source.first_name, ' ', source.last_name),\r\n            target.email = source.email,\r\n            target.created_at = source.created_at\r\n    WHEN NOT MATCHED THEN\r\n        INSERT (customer_id, full_name, email, created_at)\r\n        VALUES (source.customer_id, CONCAT(source.first_name, ' ', source.last_name), source.email, source.created_at);\r\nEND;\r\n"
+        },
+        {
+            "ObjectName": "sp_aggregate_sales",
+            "ObjectID": 2005582183,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE silver.sp_aggregate_sales\r\nAS\r\nBEGIN\r\n    INSERT INTO gold.sales_summary (product, total_quantity, total_revenue)\r\n    SELECT product, SUM(quantity), SUM(total_price)\r\n    FROM silver.cleaned_sales\r\n    GROUP BY product;\r\nEND;\r\n"
+        },
+        {
+            "ObjectName": "sp_sales_performance",
+            "ObjectID": 2021582240,
+            "ObjectType": "SQL_STORED_PROCEDURE",
+            "Definition": "CREATE PROCEDURE silver.sp_sales_performance\r\nAS\r\nBEGIN\r\n    INSERT INTO gold.sales_performance (sale_id, customer_id, product, sale_date, total_price, running_total)\r\n    SELECT \r\n        sale_id,\r\n        customer_id,\r\n        product,\r\n        sale_date,\r\n        total_price,\r\n        SUM(total_price) OVER (PARTITION BY customer_id ORDER BY sale_date ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) AS running_total\r\n    FROM silver.cleaned_sales;\r\nEND;"
+        }
+    ]
+}
